@@ -1,0 +1,11 @@
+<resources>
+    <string name="welcome_message">Welcome!</string>
+    <string name="thank_you_button">Thank You</string>
+    <string name="dont_call_me_that_button">Don\'t call me that</string>
+    <string name="dont_call_me_that_button_text" translatable="false" />
+    <string name="thank_you_button_text" translatable="false" />
+    <string name="enter_your_name">Enter your name</string>
+    <string name="your_name_hint">Your Name</string>
+    <string name="next_button_text">Next</string>
+
+</resources>

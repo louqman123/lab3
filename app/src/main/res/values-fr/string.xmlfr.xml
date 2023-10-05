@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_message">Bienvenue !</string>
+    <string name="thank_you_button">Merci</string>
+    <string name="dont_call_me_that_button">Ne m\'appelle pas comme ça</string>
+
+        <string name="enter_your_name">Entrez votre nom</string>
+        <string name="your_name_hint">Votre nom</string>
+        <string name="next_button_text">Suivant</string>
+
+</resources>
